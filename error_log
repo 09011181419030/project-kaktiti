@@ -1,0 +1,2 @@
+[16-Nov-2018 23:52:36 Asia/Jakarta] PHP Fatal error:  Class 'common\models\lecturer' not found in /home/chibicyb/msstoci.me/kaksiti/_protected/frontend/controllers/SendmailController.php on line 69
+[16-Nov-2018 23:53:35 Asia/Jakarta] PHP Fatal error:  Class 'common\models\lecturer' not found in /home/chibicyb/msstoci.me/kaksiti/_protected/frontend/controllers/SendmailController.php on line 69
