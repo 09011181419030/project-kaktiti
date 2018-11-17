@@ -21,6 +21,7 @@ use kartik\select2\Select2;
             'tokenSeparators' => [',', ' '],
             'maximumInputLength' => 10
         ],
+        
     ])->label('Lecturer List'); ?>
 
     <?= $form->field($model, 'subject')->textInput(['maxlength' => true]) ?>
